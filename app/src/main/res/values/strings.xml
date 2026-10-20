@@ -1,0 +1,4 @@
+<resources>
+    <!-- Nombre que se ve bajo el ícono de la app -->
+    <string name="app_name">TecnoLuna</string>
+</resources>
